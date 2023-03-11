@@ -1,6 +1,7 @@
 .center{
     text-align: center;
-}                        
+}
+            
 body {
     background-color: #F0FFF0;
     cursor: none;
@@ -10,7 +11,8 @@ summary::-webkit-details-marker {
 } 
 summary{
     font-size: 27px;
-    padding: 10px 0 10px 0
+    padding: 10px 0 10px 0;
+    font-family: Verdana;
 }
 img{
     width: 600px;
@@ -32,6 +34,7 @@ img{
     text-align: center;
     font-size: 40px;
     color: #008B8B;
+    font-family: Tahoma;
 }
 
 
